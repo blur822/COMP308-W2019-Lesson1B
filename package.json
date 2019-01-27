@@ -9,8 +9,18 @@
   "author": "Atul",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^4.2.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.14.6"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blur822/COMP308-W2019-Lesson1B.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blur822/COMP308-W2019-Lesson1B/issues"
+  },
+  "homepage": "https://github.com/blur822/COMP308-W2019-Lesson1B#readme"
 }

@@ -1,0 +1,16 @@
+{
+  "name": "comp308-w2019-lesson1b",
+  "version": "1.0.0",
+  "description": "COMP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atul",
+  "license": "ISC",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6"
+  }
+}

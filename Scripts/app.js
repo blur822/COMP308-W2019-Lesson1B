@@ -7,8 +7,10 @@
 let myFunctionalVariable = 0;
 
 function Start() {
-    let myLocalVariable =0;
-    console.log(`App Started...${myFunctionalVariable}`);
+ 
+    console.log(`%c App Started...`,
+    "font-size: 20px; color:blue;"
+    );
 }
 window.addEventListener("load", Start)
 })();
